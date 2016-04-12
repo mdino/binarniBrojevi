@@ -1,0 +1,9 @@
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\bin\Debug\binarniBrojevi.exe.config
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\bin\Debug\binarniBrojevi.exe
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\bin\Debug\binarniBrojevi.pdb
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\obj\Debug\binarniBrojevi.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\obj\Debug\binarniBrojevi.Form1.resources
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\obj\Debug\binarniBrojevi.Properties.Resources.resources
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\obj\Debug\binarniBrojevi.csproj.GenerateResource.Cache
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\obj\Debug\binarniBrojevi.exe
+\\psf\Home\Documents\pi projekt 2016\binarniBrojevi\binarniBrojevi\obj\Debug\binarniBrojevi.pdb
